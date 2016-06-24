@@ -1,0 +1,23 @@
+#invalid_1 {
+	color: red;
+	position: absolute;
+	top: 0px;
+	left: 195px;
+
+}
+
+#invalid_2 {
+	color: red;
+	position: absolute;
+	top: 20px;
+	left: 195px;
+
+}
+
+#invalid_3 {
+	color: red;
+	position: absolute;
+	top: 40px;
+	left: 210px;
+
+}
